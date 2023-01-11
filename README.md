@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @anandsamant08
-- 👀 I’m interested in Data Science/Machine Learning
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Anand Samant.
+- 🌱 I’m currently a Data Scientist.
+- 👀 I’m interested in learning Data Science/Machine Learning/AI. 
+- 📫 Reach me: anandsamant08@gmail.com 
 
 <!---
 anandsamant08/anandsamant08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
