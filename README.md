@@ -7,7 +7,10 @@
 anandsamant08/anandsamant08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-About :
-A continuous Learner, with good knowledge of Data Science , Deep Learning. Posses strong coding and problem solving skills with hands on experience with latest technologies.
 
-My career objective is to pursue a challenging career and be part of a progressive organisation to utilise my technical and analytical skills for growth of the organisation as well as to enchance my knowledge about new and emerging trends in IT sector.
+[Resume-Anand Samant (Data Scientist).pdf](https://github.com/anandsamant08/anandsamant08/files/10397742/Resume-Anand.Samant.Data.Scientist.pdf)
+
+About:
+Data Scientist with 3+ years of broad-based experience in building data-intensive Machine Learning models. Proficient skills in Data
+Wrangling, Exploratory Data Analysis, Model Development and Model Evaluation. Capable of implementing various Data Science
+Methodology to predict the outcome.
